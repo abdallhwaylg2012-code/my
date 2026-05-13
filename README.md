@@ -1,156 +1,75 @@
-````md id="x9a2v7"
 <div align="center">
 
-# ⚡ WELCOME TO MY DIGITAL UNIVERSE ⚡
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&text=AHMED%20RAYA&fontAlign=50&fontAlignY=38&color=0:000000,15:050816,35:120458,55:1CB5E0,75:6A00FF,100:00F5FF&fontColor=ffffff&fontSize=85&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20•%20AI%20ENGINEER%20•%20FUTURE%20CREATOR&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=100&lines=AHMED+RAYA;FULL+STACK+DEVELOPER;AI+SYSTEMS+ENGINEER;WEB+OPERATING+SYSTEM+CREATOR;BUILDING+THE+FUTURE" />
+<br>
 
-<img src="https://i.pinimg.com/originals/2f/9d/27/2f9d278a0b2d7f4f8cfb63b5efc4f0d6.gif" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=1100&height=120&lines=BUILDING+THE+FUTURE;CREATING+NEXT+GEN+TECHNOLOGY;AI+SYSTEMS+ARCHITECT;CYBERPUNK+DEVELOPER;WEB+OPERATING+SYSTEM+ENGINEER"/>
 
----
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:6A00FF&height=220&section=header&text=Ahmed%20Raya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-</div>
+<br><br>
 
----
+<img width="100%" src="https://i.imgur.com/hr6k1vK.gif"/>
 
-# 🌌 SYSTEM STATUS
+<br><br>
 
-<img align="right" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,react,nextjs,nodejs,tailwind,mongodb,mysql,firebase,git,github,godot,linux,figma,vscode&theme=dark"/>
 
-```yaml
-Name: Ahmed Raya
-Age: 14
-Location: Egypt
-Role: Full Stack Developer
-Speciality: AI + Browser Systems
-Status: Building Next Generation Technology
-Mindset: Never Stop Creating
-````
+<br><br><br>
 
----
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=2&column=4&margin-w=20&margin-h=20"/>
 
-# 🚀 ABOUT ME
+<br><br>
 
-```js
-class AhmedRaya {
+<img height="210em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&icon_color=00F5FF&title_color=00F5FF&text_color=ffffff"/>
 
-    constructor() {
-        this.name = "Ahmed Raya";
-        this.role = "Future Tech Engineer";
-        this.language = [
-            "JavaScript",
-            "TypeScript",
-            "Python",
-            "PHP",
-            "SQL"
-        ];
-    }
+<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=ffffff"/>
 
-    build() {
-        return [
-            "Web Operating Systems",
-            "AI Agents",
-            "3D Browser Apps",
-            "Virtual Desktops",
-            "Cyber Interfaces"
-        ];
-    }
+<br><br>
 
-    dream() {
-        return "Build Technology That Changes The World";
-    }
-}
+<img width="100%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=00000000&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF"/>
 
-const future = new AhmedRaya();
-```
+<br><br>
 
----
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&line=00F5FF&color=00F5FF&point=FFFFFF"/>
 
-# ⚔️ TECH ARSENAL
+<br><br>
 
-<div align="center">
+<img width="49%" src="https://media.tenor.com/qJ5evVs-_uUAAAAd/coding.gif"/>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,nodejs,react,nextjs,tailwind,mysql,firebase,git,github,vscode,godot,figma&perline=8" />
+<img width="49%" src="https://media.tenor.com/LmYXN6w5K7QAAAAd/anime-hacker.gif"/>
 
-</div>
+<br><br>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3500&pause=800&color=6A00FF&center=true&vCenter=true&width=1000&lines=ARTIFICIAL+INTELLIGENCE;WEB+OPERATING+SYSTEMS;3D+WEB+APPLICATIONS;DIGITAL+FUTURE;ADVANCED+CYBER+SYSTEMS"/>
 
-# 🧠 AI CORE
-
-<div align="center">
-
-<img width="800" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
-# 🔥 ACTIVITY GRAPH
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
----
-
-# 🛰️ VISITORS
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
-
-</div>
-
----
-
-# 🌠 CYBER TERMINAL
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</div>
-
----
-
-# 🌍 CONNECT WITH ME
-
-<div align="center">
+<br><br><br>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOUTUBE-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
 
+<a href="#">
+<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=ff00ff"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=00F5FF"/>
+
+<br><br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&color=0:00F5FF,25:6A00FF,50:120458,75:050816,100:000000"/>
+
 </div>
-
----
-
-<div align="center">
-
-# ⚡ THE FUTURE IS BUILT BY CREATORS ⚡
-
-<img src="https://media.tenor.com/LmYXN6w5K7QAAAAd/anime-hacker.gif" width="100%" />
-
-</div>
-```
